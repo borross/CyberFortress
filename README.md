@@ -227,7 +227,7 @@ debtLimit = maturity.base × 1.2^(wave - 11)
 
 ## 📊 Скриншоты
 
-*Добавьте скриншоты геймплея*
+<img width="1916" height="894" alt="image" src="https://github.com/user-attachments/assets/eb077618-5d4f-4096-bc2c-d877afd3adf4" />
 
 ---
 
