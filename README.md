@@ -9,14 +9,16 @@
 
 ## 🎮 Играть
 
-**Один HTML-файл, zero dependencies.** Откройте `index.html` в браузере — и играйте.
+**Один HTML-файл, zero dependencies.**
+
+*Играть можно на планшете и компьютере под мобилку не оптимизировано*
+- Откройте ссылку: https://borross.github.io/CyberFortress/
+- Скачайте и откройте `index.html` в браузере — и играйте.
 
 ```
 git clone https://github.com/YOUR_USERNAME/cyberfortress.git
 open index.html
 ```
-
-Или [**играйте онлайн →**](#) *(вставьте ссылку на GitHub Pages)*
 
 ---
 
