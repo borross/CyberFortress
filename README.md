@@ -264,12 +264,6 @@ debtLimit = maturity.base × 1.2^(wave - 11)
 
 ---
 
-## 📄 Лицензия
-
-MIT License — свободное использование, модификация и распространение.
-
----
-
 <p align="center">
   <b>CyberFortress</b> — learn cybersecurity architecture by playing<br>
   <i>Build. Defend. Survive.</i>
